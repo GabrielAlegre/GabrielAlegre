@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gabriel+Alegre" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gabriel+Alegre" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Técnico Superior en Programación - Técnico en Sistemas Informáticos.</h3>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="gabrielalegre" /> </p>
