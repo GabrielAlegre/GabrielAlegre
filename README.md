@@ -37,6 +37,7 @@
 <br/>
 <img width=420 src="https://github-readme-stats.vercel.app/api?username=gabrielalegre&theme=tokyonight&show_icons=true&locale=en" alt="gabrielalegre" />
 </div>
+<br/>
   <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=gabrielalegre&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielalegre" /> </p>
 
 <hr/>
