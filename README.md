@@ -1,6 +1,5 @@
 <h1 align="center">
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gabriel+Alegre" alt="Typing SVG" /></a>
-<p align="center"> <img align="right" src="https://komarev.com/ghpvc/?username=gabrielalegre&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielalegre" /> </p>
 </h1>
 <h3 align="center">Técnico Superior en Programación - Técnico en Sistemas Informáticos.</h3>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="gabrielalegre" /> </p>
@@ -38,7 +37,7 @@
 <br/>
 <img width=420 src="https://github-readme-stats.vercel.app/api?username=gabrielalegre&theme=tokyonight&show_icons=true&locale=en" alt="gabrielalegre" />
 </div>
-  
+  <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=gabrielalegre&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielalegre" /> </p>
 
 <hr/>
 
