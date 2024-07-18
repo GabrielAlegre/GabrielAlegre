@@ -23,7 +23,7 @@
 
   🔭 I’m currently working on [Ticketera API](https://front-tp-ticketera.vercel.app/bienvenido)
 
-  🔭 I’m currently working on [Job IT]([https://front-tp-ticketera.vercel.app/bienvenido](https://job-it-two.vercel.app/inicio))
+  🔭 I’m currently working on [Job IT](https://job-it-two.vercel.app/inicio)
 
   📫 How to reach me **GabrielAlegre68@gmail.com**
   
